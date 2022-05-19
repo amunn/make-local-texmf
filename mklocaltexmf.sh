@@ -4,7 +4,7 @@
 #
 # 2018/09/06
 #
-localdirname=`kpsewhich -var-value TEXMFHOME`
+localdirname=`/Library/TeX/texbin/kpsewhich -var-value TEXMFHOME`
 if [ ! -d $localdirname ]; then
 
 	mkdir -p $localdirname/bibtex/bib
