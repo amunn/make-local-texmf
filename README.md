@@ -33,6 +33,14 @@ The texmf folder contains a number of folders, and these folders themselves cont
 
 # How to use it
 
+## Mac and Linux users
+
+Download the `.sh` script and run it.
+
+This may require first running `chmod +x mklocaltexmf.sh`.
+
+You are now ready to add any local additions you may have.
+
 ## Mac Users
 
 Download the `.zip` file which contains a clickable application.
@@ -50,12 +58,6 @@ Double click on the application, and it will show the following dialog box:
 Click on the "Take Me There" button, and a Finder window will open, like the one below: (shown in list view).
 
 ![Finder view](local-texmf-folder.png?raw=true "Finder")
-
-# Linux users
-
-Download the `.sh` script and run it.
-
-You are now ready to add any local additions you may have.
 
 ￼
 
